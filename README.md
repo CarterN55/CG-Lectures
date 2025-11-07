@@ -9,7 +9,7 @@
 
 ![2025-11-0716-13-47-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/946076fd-8194-4546-bde3-c4532ebeb152)
 
-I was able to play around with the Shadows with Textures and make it so that all of the shadows of the models were the style of my texture (wood)
+I was able to play around with the Shadows with Textures and make it so that all of the shadows of the models were the style of my texture (wood). In the GIF it's a bit hard to tell but the right-most guy is casting no shadow while having the lighting work on him.
 
 **Water**
 
